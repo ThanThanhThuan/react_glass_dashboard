@@ -1,7 +1,7 @@
 # React Dashboard Interactive
 View live at: https://thanthanhthuan.github.io/react_glass_dashboard/
 
-Click Billing Admin to add/ edit/ delete billing records
+Click Admin Panel to add/ edit/ delete billing records
 
 See live Billing History at Settings -> Billing
 
